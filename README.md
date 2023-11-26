@@ -1,2 +1,2 @@
 # .github
-Public README for this organisation.
+This repository only contains the Public README for this organisation.
