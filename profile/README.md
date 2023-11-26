@@ -1,4 +1,4 @@
-## Check out all our code...
+## Our extensive robot code can be accessed from here.
 
 <!--
 
